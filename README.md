@@ -3,4 +3,4 @@
 ### Hi 👋
 
 - :orange_book: Focusing on Javascript and Continuous Learning
-- :hammer: Creator of applications
+- :hammer: developer of web applications
