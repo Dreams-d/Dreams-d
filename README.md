@@ -5,4 +5,4 @@
 - :orange_book: Focusing on Javascript and Continuous Learning
 - :hammer: developer of web applications
 
-<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Dreams-d" />
+<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Dreams-d" style="float: right"/>
